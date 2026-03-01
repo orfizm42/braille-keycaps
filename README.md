@@ -63,7 +63,7 @@ braille-mx-keycaps/
 
 ## ライセンス
 
-本リポジトリのスクリプトおよびSTEPデータはで公開します。
+本リポジトリのスクリプトおよびSTEPデータは**CC BY-SA 4.0**で公開します。
 
 OPKは Matt3o 氏が Apache License 2.0 で公開しているものを使用しています。  
 © Matt3o — https://github.com/cubiq/OPK
